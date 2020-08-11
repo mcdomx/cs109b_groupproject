@@ -186,15 +186,3 @@ Documentation for this project is written using reStructuredText markup and the 
 * If you are new to reStructureText, a good starting place will be `the reStructuredText documentation provided by the Sphinx project <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_.
 
 .. _issues:
-
-Questions or issues related to this project
--------------------------------------------
-
-Questions or issues related to this project can be submitted as an "issue" via the GitHub repository at: https://github.com/sedelmeyer/nyc-capital-projects/issues
-
-
-.. _final report: https://github.com/sedelmeyer/nyc-capital-projects/blob/master/notebooks/11_FINAL_REPORT.ipynb
-
-.. _datasource: https://data.cityofnewyork.us/City-Government/Capital-Projects/n7gv-k5yt
-
-.. _`CS109b: Advanced Topics In Data Science`: https://harvard-iacs.github.io/2020-CS109B/
