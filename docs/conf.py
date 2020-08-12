@@ -69,7 +69,7 @@ source_suffix = {
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "tactile"
+html_theme = "Tactile"
 
 # html_baseurl is configured for GitHub's docs hosting
 html_baseurl = "https://mcdomx.github.io/cs109b_groupproject/"
