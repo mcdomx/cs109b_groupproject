@@ -69,10 +69,10 @@ source_suffix = {
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "alabaster"
+html_theme = "tactile"
 
 # html_baseurl is configured for GitHub's docs hosting
-html_baseurl = "https://sedelmeyer.github.io/nyc-capital-projects/"
+html_baseurl = "https://mcdomx.github.io/cs109b_groupproject/"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -91,8 +91,8 @@ html_favicon = "_static/favicon.ico"
 html_theme_options = {
     "logo": "logo.png",
     "logo_name": "true",
-    "github_user": "sedelmeyer",
-    "github_repo": "nyc-capital-projects",
+    "github_user": "mcdomx",
+    "github_repo": "cs109b_groupproject",
     "fixed_sidebar": "false",
     "description": "Predicting budget and schedule outcomes for NYC capital projects",
     "badge_branch": "master",
