@@ -28,7 +28,7 @@ copyright = "{0}, {1}".format(year, author)
 # The full version, including alpha/beta/rc tags, updated
 # using setuptools_scm
 try:
-    version = release = get_distribution("nyc-capital-projects").version
+    version = release = get_distribution("cs109b_groupproject").version
 except Exception:
     traceback.print_exc()
     version = release = "0.0.0"
