@@ -23,7 +23,7 @@ def read(*names, **kwargs):
 
 
 setup(
-    name="nyc-capital-projects",
+    name="cs109b_groupproject",
     version="0.0.0",
     license="MIT license",
     description="Predicting budget and schedule outcomes for NYC capital projects",
