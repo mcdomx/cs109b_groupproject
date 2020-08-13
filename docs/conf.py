@@ -31,6 +31,8 @@ try:
     version = release = get_distribution("cs109b_groupproject").version
 except Exception:
     traceback.print_exc()
+    print("Using version: 0.0.0")
+
     version = release = "0.0.0"
 
 
