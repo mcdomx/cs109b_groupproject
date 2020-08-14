@@ -36,7 +36,7 @@ setup(
     ),
     author="An Hoang, Mark McDonald, and Michael Sedelmeyer",
     author_email="",
-    url="https://mcdomx.github.io/cs109b_groupproject/",
+    url="https://mcdomx.github.io/cs109b_groupproject",
     packages=find_packages("src"),
     package_dir={"": "src"},
     py_modules=[splitext(basename(path))[0] for path in glob("src/*.py")],
